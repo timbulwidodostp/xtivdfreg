@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtivdfreg Defactored IV instrumental variables estimation of large panel data models Use xtivdfreg With STATA 18
