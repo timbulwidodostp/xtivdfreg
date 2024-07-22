@@ -1,6 +1,8 @@
 # xtivdfreg
 Defactored IV instrumental variables estimation of large panel data models Use xtivdfreg With STATA 18
 
+https://www.youtube.com/watch?v=SXPFOY-Tne0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
